@@ -5,6 +5,9 @@ Note is a simple note taking desktop app developed using the Electron framework.
 ## Planned Features 
 * Add/Remove Notes
 * Dynamic Rich Text Editor
+	* Bulleted and numbered lists
+	* Checkboxes 
+	* Colored text and colored highlights 
 * Note Browser in the screen
 * Save to file system
 	* Customize save location
